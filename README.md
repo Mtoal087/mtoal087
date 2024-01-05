@@ -2,8 +2,7 @@
 
 ## I'm Matthew Toal. A computer science student from the United States.
 
-### Give me a follow on X @mattxtoal
-![Twitter Follow](https://img.shields.io/twitter/follow/mattxtoal)
+### Give me a follow ![Twitter Follow](https://img.shields.io/twitter/follow/mattxtoal)
 
 ---
 
