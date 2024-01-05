@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World! 👋
 
 ## I'm Matthew Toal. A computer science student from the United States, studying software engineering, cybersecurity, and artficial intelligence.
 
