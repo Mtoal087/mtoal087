@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [mtoal087.github.io/Portfolio](mtoal087.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [matthewtoal.vercel.app/](https://matthewtoal.vercel.app/)
 
 - 💬 Ask me about **object-oriented programming**
 
