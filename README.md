@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtoal087" alt="mtoal087" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mattxtoal" target="blank"><img src="https://img.shields.io/twitter/follow/mattxtoal?logo=twitter&style=for-the-badge" alt="mattxtoal" /></a> </p>
-
 - 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [matthewtoal.vercel.app/](https://matthewtoal.vercel.app/)
